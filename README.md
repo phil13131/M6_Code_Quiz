@@ -47,14 +47,14 @@ SO THAT I can gauge my progress compared to my peers
 Please visit the [site](https://phil13131.github.io/M6_Code_Quiz/) hosted on GitHub Pages.
 
 ## Screenshots
-![Screenshot 1](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_1.png)
-![Screenshot 2](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_2.png)
-![Screenshot 3](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_3.png)
-![Screenshot 4](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_4.png)
-![Screenshot 5](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_5.png)
-![Screenshot 6](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_6.png)
-![Screenshot 7](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_7.png)
-![Screenshot 8](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_8.png)
+![Screenshot 1](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_1.png)
+![Screenshot 2](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_2.png)
+![Screenshot 3](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_3.png)
+![Screenshot 4](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_4.png)
+![Screenshot 5](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_5.png)
+![Screenshot 6](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_6.png)
+![Screenshot 7](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_7.png)
+![Screenshot 8](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_8.png)
 
 ## License
 This project uses the MIT license.
