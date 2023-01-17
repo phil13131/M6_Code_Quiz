@@ -44,7 +44,7 @@ SO THAT I can gauge my progress compared to my peers
 |quiz.js|assets/js/quiz.js|JavaScript for quiz page|
 
 ## Accessing the site
-Please visit the [site](https://www.phil13131.com/codingquiz/) hosted on GitHub Pages.
+Please visit the [site](https://phil13131.github.io/M6_Code_Quiz/) hosted on GitHub Pages.
 
 ## Screenshots
 ![Screenshot 1](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_1.png)
