@@ -1,4 +1,4 @@
-# Coding Quiz - Homework Assigment 4
+# Coding Quiz - M6 Challenge Project
 
 This application is a coding quiz which offers timed multiple choice questions.
 This app runs in a browser and feature dynamically updated HTML and CSS powered by JavaScript code. It also features a clean and polished user interface and is responsive, ensuring that it adapts to multiple screen sizes.
