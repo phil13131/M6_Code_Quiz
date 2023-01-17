@@ -44,16 +44,17 @@ SO THAT I can gauge my progress compared to my peers
 |quiz.js|assets/js/quiz.js|JavaScript for quiz page|
 
 ## Accessing the site
-Please visit the [site](https://www.harishnarain.com/codingquiz/) hosted on GitHub Pages.
+Please visit the [site](https://www.phil13131.com/codingquiz/) hosted on GitHub Pages.
 
 ## Screenshots
-![Screenshot 1](https://github.com/harishnarain/codingquiz/blob/master/Screenshot1.png)
-![Screenshot 2](https://github.com/harishnarain/codingquiz/blob/master/Screenshot2.png)
-![Screenshot 3](https://github.com/harishnarain/codingquiz/blob/master/Screenshot3.png)
-![Screenshot 4](https://github.com/harishnarain/codingquiz/blob/master/Screenshot4.png)
-![Screenshot 5](https://github.com/harishnarain/codingquiz/blob/master/Screenshot5.png)
-![Screenshot 6](https://github.com/harishnarain/codingquiz/blob/master/Screenshot6.png)
-![Screenshot 7](https://github.com/harishnarain/codingquiz/blob/master/Screenshot7.png)
+![Screenshot 1](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_20230117_094837.png)
+![Screenshot 2](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_20230117_094915.png)
+![Screenshot 3](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_20230117_095001.png)
+![Screenshot 4](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_20230117_095057.png)
+![Screenshot 5](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_20230117_095129.png)
+![Screenshot 6](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_20230117_095215.png)
+![Screenshot 7](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_20230117_095248.png)
+![Screenshot 8](https://github.com/phil13131/M6_Coding_Quiz/Screenshot_20230117_095446.png)
 
 ## License
 This project uses the MIT license.
