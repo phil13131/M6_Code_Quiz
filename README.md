@@ -47,16 +47,14 @@ SO THAT I can gauge my progress compared to my peers
 Please visit the [site](https://phil13131.github.io/M6_Code_Quiz/) hosted on GitHub Pages.
 
 ## Screenshots
-
-<img width="854" alt="Screenshot 1" src="Screenshot 1.PNG">
-<img width="854" alt="Screenshot 2" src="Screenshot 2.PNG.">
-<img width="854" alt="Screenshot 3" src="Screenshot 3.PNG.">
-<img width="854" alt="Screenshot 4" src="Screenshot 4.PNG.">
-<img width="854" alt="Screenshot 5" src="Screenshot 5.PNG.">
-<img width="854" alt="Screenshot 6" src="Screenshot 6.PNG.">
-<img width="854" alt="Screenshot 7" src="Screenshot 7.PNG.">
-<img width="854" alt="Screenshot 8" src="Screenshot 8.PNG">
-
+![Screenshot 1](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_1.PNG)
+![Screenshot 2](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_2.PNG)
+![Screenshot 3](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_3.PNG)
+![Screenshot 4](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_4.PNG)
+![Screenshot 5](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_5.PNG)
+![Screenshot 6](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_6.PNG)
+![Screenshot 7](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_7.PNG)
+![Screenshot 8](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_8.PNG)
 
 
 ## License
