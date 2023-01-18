@@ -47,7 +47,7 @@ SO THAT I can gauge my progress compared to my peers
 Please visit the [site](https://phil13131.github.io/M6_Code_Quiz/) hosted on GitHub Pages.
 
 ## Screenshots
-![Screenshot 1](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_1.PNG)
+![Screenshot 1](https://github.com/phil13131/M6_Code_Quiz/blob/eadfa85c6164d0f2408c97dae37f773c077732c6/Screenshot_20230117_094837.png)
 ![Screenshot 2](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_2.PNG)
 ![Screenshot 3](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_3.PNG)
 ![Screenshot 4](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_4.PNG)
@@ -56,7 +56,7 @@ Please visit the [site](https://phil13131.github.io/M6_Code_Quiz/) hosted on Git
 ![Screenshot 7](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_7.PNG)
 ![Screenshot 8](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_8.PNG)
 
-https://github.com/phil13131/M6_Code_Quiz/blob/eadfa85c6164d0f2408c97dae37f773c077732c6/Screenshot_20230117_094837.png
+
 ## License
 This project uses the MIT license.
 
