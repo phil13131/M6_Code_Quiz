@@ -48,13 +48,13 @@ Please visit the [site](https://phil13131.github.io/M6_Code_Quiz/) hosted on Git
 
 ## Screenshots
 ![Screenshot 1](https://github.com/phil13131/M6_Code_Quiz/blob/eadfa85c6164d0f2408c97dae37f773c077732c6/Screenshot_20230117_094837.png)
-![Screenshot 2](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_2.PNG)
-![Screenshot 3](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_3.PNG)
-![Screenshot 4](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_4.PNG)
-![Screenshot 5](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_5.PNG)
-![Screenshot 6](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_6.PNG)
-![Screenshot 7](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_7.PNG)
-![Screenshot 8](https://github.com/phil13131/M6_Coding_Quiz/blob/main/Screenshot_8.PNG)
+![Screenshot 2](https://github.com/phil13131/M6_Code_Quiz/blob/ceda611b88a89ceb80c338d048134735815eb780/Screenshot_20230117_094915.png)
+![Screenshot 3](https://github.com/phil13131/M6_Code_Quiz/blob/ceda611b88a89ceb80c338d048134735815eb780/Screenshot_20230117_095001.png)
+![Screenshot 4](https://github.com/phil13131/M6_Code_Quiz/blob/ceda611b88a89ceb80c338d048134735815eb780/Screenshot_20230117_095057.png)
+![Screenshot 5](https://github.com/phil13131/M6_Code_Quiz/blob/ceda611b88a89ceb80c338d048134735815eb780/Screenshot_20230117_095129.png)
+![Screenshot 6](https://github.com/phil13131/M6_Code_Quiz/blob/ceda611b88a89ceb80c338d048134735815eb780/Screenshot_20230117_095215.png)
+![Screenshot 7](https://github.com/phil13131/M6_Code_Quiz/blob/ceda611b88a89ceb80c338d048134735815eb780/Screenshot_20230117_095248.png)
+![Screenshot 8](https://github.com/phil13131/M6_Code_Quiz/blob/ceda611b88a89ceb80c338d048134735815eb780/Screenshot_20230117_095446.png)
 
 
 ## License
